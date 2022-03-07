@@ -1,0 +1,30 @@
+{
+  "group": "modexonia",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "modexonia:exoniumingot"
+    },
+    "3": {
+      "item": "modexonia:exoniumingot"
+    },
+    "4": {
+      "item": "minecraft:glass"
+    },
+    "5": {
+      "item": "modexonia:exoniumingot"
+    },
+    "7": {
+      "item": "modexonia:exoniumingot"
+    }
+  },
+  "result": {
+    "item": "modexonia:unknown_element",
+    "count": 1
+  }
+}

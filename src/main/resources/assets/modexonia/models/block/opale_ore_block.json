@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "modexonia:blocks/opale_ore_block",
+    "particle": "modexonia:blocks/opale_ore_block"
+  }
+}

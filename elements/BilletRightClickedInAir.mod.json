@@ -1,0 +1,7 @@
+{
+  "_fv": 24,
+  "_type": "procedure",
+  "definition": {
+    "procedurexml": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?><xml xmlns=\"https://developers.google.com/blockly/xml\"><variables><variable id=\"Money\" type=\"Number\">Money</variable></variables><block deletable=\"false\" type=\"event_trigger\" x=\"40\" y=\"40\"><field name=\"trigger\">no_ext_trigger</field><next><block type=\"variables_set_number\"><field name=\"VAR\">local:Money</field><value name=\"VAL\"><block type=\"math_dual_ops\"><field name=\"OP\">ADD</field><value name=\"A\"><block type=\"variables_get_number\"><field name=\"VAR\">local:Money</field></block></value><value name=\"B\"><block type=\"math_number\"><field name=\"NUM\">1000</field></block></value></block></value></block></next></block><block type=\"variables_get_logic\" x=\"304\" y=\"231\"><field name=\"VAR\"/></block><block type=\"variables_get_logic\" x=\"269\" y=\"325\"><field name=\"VAR\"/></block><block type=\"variables_set_logic\" x=\"390\" y=\"368\"><field name=\"VAR\"/></block><block type=\"variables_set_string\" x=\"232\" y=\"398\"><field name=\"VAR\"/></block></xml>"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "group": "modexonia",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "modexonia:opalegem"
+    },
+    "2": {
+      "item": "modexonia:opalegem"
+    },
+    "3": {
+      "item": "modexonia:opalegem"
+    },
+    "5": {
+      "item": "modexonia:opalegem"
+    }
+  },
+  "result": {
+    "item": "modexonia:opalearmorboots",
+    "count": 1
+  }
+}

@@ -1,0 +1,1120 @@
+{
+  "mod_elements": [
+    {
+      "name": "Exoniumtools",
+      "type": "tool",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "ExoniumStuff",
+      "type": "tab",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "Exoniumingot",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "Craftexoniumpickaxe",
+      "type": "recipe",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "Exoniumsword",
+      "type": "tool",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "Craftexoniumsword",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "Exoniumhoe",
+      "type": "tool",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "Exoniumaxe",
+      "type": "tool",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "Exoniumshowel",
+      "type": "tool",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "Craftexoniumaxe",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "Craftexoniumshowel",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "Craftexoniumhoe",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "Exoniumblock",
+      "type": "block",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "ExoniumarmorHelmetTickEvent",
+      "type": "procedure",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Exoniumarmor",
+      "type": "armor",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "Craftexoniumhelmet",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "Craftexoniumchesplate",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "Craftexoniumlegings",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "Craftexoniumboots",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "Exoniumhammer",
+      "type": "tool",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "ExoniumhammerBlockDestroyedWithToold",
+      "type": "procedure",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Craftexoniumhammer",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "Exoniumore",
+      "type": "block",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "Cookedexoniumore",
+      "type": "recipe",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "ExoniumappleFoodEaten",
+      "type": "procedure",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Exoniumapple",
+      "type": "food",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "Saphyringot",
+      "type": "item",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "SaphyrStuff",
+      "type": "tab",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "Saphyrblock",
+      "type": "block",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "Exoniumstick",
+      "type": "item",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "ExoniumhammerBlockDestroyedWithTool",
+      "type": "procedure",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Exoniumhammerevoluted",
+      "type": "tool",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "Craftexoniumstick",
+      "type": "recipe",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "Saphyrarmor",
+      "type": "armor",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "SaphyrarmorHelmetTickEvent",
+      "type": "procedure",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Saphyrsword",
+      "type": "tool",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "Craftsaphyrhelmet",
+      "type": "recipe",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "Craftsaphyrchestplate",
+      "type": "recipe",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "SaphyrhammerBlockDestroyedWithTool",
+      "type": "procedure",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Saphyrore",
+      "type": "block",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "Craftsaphyrleggings",
+      "type": "recipe",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "Craftsaphyrboots",
+      "type": "recipe",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "Saphyrpickaxe",
+      "type": "tool",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "Saphyraxe",
+      "type": "tool",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "Saphyrshowel",
+      "type": "tool",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "Craftupgradingtable",
+      "type": "recipe",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "Exoniumadvancement",
+      "type": "achievement",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "Saphyrhoe",
+      "type": "tool",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "Unclaimfinder",
+      "type": "procedure",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "unclaimfinderprocedure",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "Unclaimfinderitem",
+      "type": "item",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "Amethystestuff",
+      "type": "tab",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "Amethystepickaxe",
+      "type": "tool",
+      "sortid": 48,
+      "compiles": false,
+      "locked_code": false
+    },
+    {
+      "name": "Amethystesword",
+      "type": "tool",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "Amethysteingot",
+      "type": "item",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "Craftcaveblock",
+      "type": "recipe",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "CaveBlock",
+      "type": "block",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "Amethysteaxe",
+      "type": "tool",
+      "sortid": 51,
+      "compiles": false,
+      "locked_code": false
+    },
+    {
+      "name": "Amethysteshovel",
+      "type": "tool",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "Amethystehoe",
+      "type": "tool",
+      "sortid": 53,
+      "compiles": false,
+      "locked_code": false
+    },
+    {
+      "name": "Craftamethystesword",
+      "type": "recipe",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "Craftamethysteshovel",
+      "type": "recipe",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "Craftamethystehoe",
+      "type": "recipe",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "Billet",
+      "type": "item",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "Craftamethysteaxe",
+      "type": "recipe",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "Craftamethystepickaxe",
+      "type": "recipe",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "BilletRightClickedInAir",
+      "type": "procedure",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "Luckyblock",
+      "type": "block",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "OpaleOre",
+      "type": "block",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "OpaleOreBlock",
+      "type": "block",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "OpaleGem",
+      "type": "item",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "OpaleOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "OpaleBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "OpalePickaxe",
+      "type": "tool",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "OpaleAxe",
+      "type": "tool",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "OpaleSword",
+      "type": "tool",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "OpaleShovel",
+      "type": "tool",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "OpaleHoe",
+      "type": "tool",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "OpalePickaxeRecipe",
+      "type": "recipe",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "OpaleAxeRecipe",
+      "type": "recipe",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "OpaleSwordRecipe",
+      "type": "recipe",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "OpaleShovelRecipe",
+      "type": "recipe",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "OpaleHoeRecipe",
+      "type": "recipe",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "OpaleArmor",
+      "type": "armor",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "OpaleArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "OpaleArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "OpaleArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "OpaleArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "OpaleStuff",
+      "type": "tab",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "Exoniumplantstage1",
+      "type": "block",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "Exoniumplantstage0",
+      "type": "block",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "AutresItems",
+      "type": "tab",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "Exoniumplant",
+      "type": "item",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "Exoniumplantstage7",
+      "type": "block",
+      "sortid": 104,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "Exoniumplantstage6",
+      "type": "block",
+      "sortid": 103,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "Exoniumplantstage5",
+      "type": "block",
+      "sortid": 102,
+      "compiles": false,
+      "locked_code": false
+    },
+    {
+      "name": "Exoniumplantstage4",
+      "type": "block",
+      "sortid": 101,
+      "compiles": false,
+      "locked_code": false
+    },
+    {
+      "name": "ExoniumplantRightClickedOnBlock",
+      "type": "procedure",
+      "sortid": 105,
+      "compiles": true,
+      "locked_code": false,
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Exoniumplantstage3",
+      "type": "block",
+      "sortid": 100,
+      "compiles": false,
+      "locked_code": false
+    },
+    {
+      "name": "Exoniumplantstage2",
+      "type": "block",
+      "sortid": 99,
+      "compiles": false,
+      "locked_code": false
+    },
+    {
+      "name": "Metier",
+      "type": "procedure",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Amethytesore",
+      "type": "block",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false
+    },
+    {
+      "name": "Bucheron",
+      "type": "procedure",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Smelt",
+      "type": "enchantment",
+      "sortid": 106,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "smelt"
+    },
+    {
+      "name": "AmethystearmorArmor",
+      "type": "armor",
+      "sortid": 107,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amethystearmor_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "AmethystearmorArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 108,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amethystearmor_armor_helmet_recipe"
+    },
+    {
+      "name": "AmethystearmorArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 109,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amethystearmor_armor_body_recipe"
+    },
+    {
+      "name": "AmethystearmorArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 110,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amethystearmor_armor_leggings_recipe"
+    },
+    {
+      "name": "AmethystearmorArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 111,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amethystearmor_armor_boots_recipe"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.exoniumtools.name": "Pioche en exonium",
+      "item.modexonia.opale_gem": "Opale",
+      "item.saphyrsword.name": "Saphyrsword",
+      "item.modexonia.opale_armor_helmet": "Opale Helmet",
+      "item.modexonia.exoniumarmor_chestplate": "Plastron en lenorium",
+      "item.modexonia.exoniumapple": "Exoniumapple",
+      "item.saphyrarmorbody.name": "Saphyrarmor Body",
+      "tile.amethytesore.name": "Amethytesore",
+      "itemGroup.tabamethystestuff": "Amethystestuff",
+      "item.modexonia.saphyrarmor_helmet": "Saphyrarmor Helmet",
+      "item.exoniumaxe.name": "Hache en exonium",
+      "item.modexonia.amethystesword": "Amethystesword",
+      "advancements.exoniumadvancement.descr": "Craft une armure en exonium",
+      "item.exoniumapple.name": "Exoniumapple",
+      "item.modexonia.opale_shovel": "Opale Shovel",
+      "item.saphyrarmorboots.name": "Saphyrarmor Boots",
+      "block.modexonia.exoniumplantstage_3": "Exoniumplantstage0",
+      "block.modexonia.exoniumplantstage_2": "Exoniumplantstage0",
+      "block.modexonia.exoniumplantstage_1": "Exoniumplantstage0",
+      "item.saphyrarmorlegs.name": "Saphyrarmor Leggings",
+      "block.modexonia.exoniumplantstage_0": "Exoniumplantstage0",
+      "tile.luckyblock.name": "Luckyblock",
+      "block.modexonia.exoniumplantstage_7": "Exoniumplantstage0",
+      "item.saphyrarmorhelmet.name": "Saphyrarmor Helmet",
+      "item.amethysteaxe.name": "Amethysteaxe",
+      "item.modexonia.unclaimfinderitem": "Unclaimfinderitem",
+      "block.modexonia.exoniumplantstage_6": "Exoniumplantstage0",
+      "block.modexonia.exoniumplantstage_5": "Exoniumplantstage0",
+      "block.modexonia.exoniumplantstage_4": "Exoniumplantstage0",
+      "item.opalearmorlegs.name": "Opale Leggings",
+      "item.opalearmorboots.name": "Opale Boots",
+      "itemGroup.tabopale_stuff": "Opale Stuff",
+      "itemGroup.tabexoniumstuff": "Stuff en exonium",
+      "item.exoniumarmorhelmet.name": "Casque en exonium",
+      "block.modexonia.exoniumore": "Exoniumore",
+      "item.modexonia.opale_sword": "Opale Sword",
+      "item.exoniumingot.name": "Exonium",
+      "tile.opaleoreblock.name": "Block of Opale",
+      "item.modexonia.exoniumhammerevoluted": "Exoniumhammerevoluted",
+      "item.modexonia.amethystearmor_armor_chestplate": "Amethystearmor Chestplate",
+      "item.exoniumhoe.name": "Houe en exonium",
+      "item.amethystesword.name": "Amethystesword",
+      "item.modexonia.opale_pickaxe": "Opale Pickaxe",
+      "item.modexonia.exoniumstick": "Exoniumstick",
+      "item.exoniumhammerevoluted.name": "Exoniumhammerevoluted",
+      "item.modexonia.saphyrarmor_boots": "Saphyrarmor Boots",
+      "item.exoniumshowel.name": "Pelle en exonium",
+      "item.modexonia.amethysteingot": "Amethysteingot",
+      "item.modexonia.opale_axe": "Opale Axe",
+      "itemGroup.tabsaphyr_stuff": "Saphyr Stuff",
+      "item.modexonia.saphyrhoe": "Saphyrhoe",
+      "item.modexonia.saphyrpickaxe": "Saphyrpickaxe",
+      "tile.upgradingtable.name": "Upgradingtable",
+      "item.modexonia.exoniumarmor_helmet": "Casque en lenorium",
+      "item.modexonia.saphyrshowel": "Saphyrshovel",
+      "itemGroup.tabopalestuff": "Opale Stuff",
+      "item.exoniumstick.name": "Exoniumstick",
+      "item.modexonia.amethystearmor_armor_helmet": "Amethystearmor Helmet",
+      "block.modexonia.cave_block": "Cave Block",
+      "tile.saphyrblock.name": "Saphyrblock",
+      "item.opalepickaxe.name": "Opale Pickaxe",
+      "item.modexonia.opale_hoe": "Opale Hoe",
+      "item.modexonia.saphyraxe": "Saphyraxe",
+      "item.modexonia.exoniumtools": "Pioche en exonium",
+      "item.modexonia.exoniumingot": "Exonium",
+      "item.exoniumhammer.name": "Exoniumhammer",
+      "item.saphyrpickaxe.name": "Saphyrpickaxe",
+      "item.modexonia.saphyrarmor_leggings": "Saphyrarmor Leggings",
+      "item.modexonia.amethysteaxe": "Amethysteaxe",
+      "item.exoniumsword.name": "Epée en exonium",
+      "tile.exoniumplantstage6.name": "Exoniumplantstage0",
+      "item.modexonia.exoniumaxe": "Hache en exonium",
+      "item.opalehoe.name": "Opale Hoe",
+      "item.modexonia.saphyringot": "Saphyringot",
+      "block.modexonia.luckyblock": "Luckyblock",
+      "advancements.exoniumadvancement.title": "Exoniumadvancement",
+      "item.modexonia.opale_armor_leggings": "Opale Leggings",
+      "item.modexonia.saphyrsword": "Saphyrsword",
+      "itemGroup.tabexonium_stuff": "Stuff en exonium",
+      "item.saphyringot.name": "Saphyringot",
+      "itemGroup.tabsaphyrstuff": "Saphyr Stuff",
+      "item.modexonia.exoniumsword": "Epée en exonium",
+      "item.billet.name": "Billet",
+      "item.exoniumarmorlegs.name": "Jambières en exonium",
+      "block.modexonia.amethytesore": "Amethytesore",
+      "tile.saphyrore.name": "Saphyrore",
+      "item.modexonia.amethystepickaxe": "Amethystepickaxe",
+      "item.saphyrshowel.name": "Saphyrshovel",
+      "item.modexonia.exoniumhammer": "Exoniumhammer",
+      "item.opalegem.name": "Opale",
+      "item.modexonia.exoniumhoe": "Houe en exonium",
+      "item.modexonia.billet": "Billet",
+      "block.modexonia.opale_ore": "Opale Ore",
+      "item.modexonia.amethystearmor_armor_boots": "Amethystearmor Boots",
+      "item.modexonia.opale_armor_boots": "Opale Boots",
+      "item.opalearmorhelmet.name": "Opale Helmet",
+      "item.modexonia.exoniumplant": "Exoniumplant",
+      "item.exoniumarmorboots.name": "Bottes en exonium",
+      "item.opaleshovel.name": "Opale Shovel",
+      "item.saphyrhoe.name": "Saphyrhoe",
+      "block.modexonia.opale_ore_block": "Block of Opale",
+      "itemGroup.tabautres": "Autres",
+      "item.modexonia.amethystearmor_armor_leggings": "Amethystearmor Leggings",
+      "tile.opaleore.name": "Opale Ore",
+      "item.opalesword.name": "Opale Sword",
+      "tile.exoniumblock.name": "Block en exonium",
+      "item.modexonia.amethystehoe": "Amethystehoe",
+      "itemGroup.tabautres_items": "Autres Items",
+      "item.unclaimfinderitem.name": "Unclaimfinderitem",
+      "block.modexonia.saphyrblock": "Saphyrblock",
+      "item.amethystepickaxe.name": "Amethystepickaxe",
+      "item.exoniumarmorbody.name": "Plastron en exonium",
+      "item.modexonia.opale_armor_chestplate": "Opale Chestplate",
+      "item.amethysteingot.name": "Amethysteingot",
+      "block.modexonia.exoniumblock": "Block en lenorium",
+      "item.opalearmorbody.name": "Opale Chestplate",
+      "item.modexonia.amethysteshovel": "Amethysteshovel",
+      "tile.exoniumore.name": "Exoniumore",
+      "item.modexonia.exoniumarmor_leggings": "Jambières en lenorium",
+      "item.saphyraxe.name": "Saphyraxe",
+      "enchantment.modexonia.smelt": "Smelt",
+      "item.opaleaxe.name": "Opale Axe",
+      "tile.caveblock.name": "Cave Block",
+      "item.modexonia.exoniumarmor_boots": "Bottes en lenorium",
+      "tile.exoniumplantstage5.name": "Exoniumplantstage0",
+      "item.modexonia.exoniumshowel": "Pelle en exonium",
+      "block.modexonia.saphyrore": "Saphyrore",
+      "item.modexonia.saphyrarmor_chestplate": "Saphyrarmor Body"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "Exonium",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "modexonia",
+    "modName": "mod exonia",
+    "version": "1.0.0",
+    "author": "mador, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.modexonia",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100354000
+}

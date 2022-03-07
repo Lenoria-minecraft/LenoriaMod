@@ -1,0 +1,11 @@
+{
+  "_fv": 24,
+  "_type": "tab",
+  "definition": {
+    "name": "Saphyr Stuff",
+    "icon": {
+      "value": "CUSTOM:Saphyringot"
+    },
+    "showSearch": false
+  }
+}

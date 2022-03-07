@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "modexonia:blocks/caveblock2",
+    "up": "modexonia:blocks/caveblock2",
+    "north": "modexonia:blocks/caveblock2",
+    "east": "modexonia:blocks/caveblock2",
+    "south": "modexonia:blocks/caveblock2",
+    "west": "modexonia:blocks/caveblock2",
+    "particle": "modexonia:blocks/caveblock2"
+  }
+}

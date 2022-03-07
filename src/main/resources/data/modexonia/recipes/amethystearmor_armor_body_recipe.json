@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "modexonia:amethysteingot"
+    },
+    "2": {
+      "item": "modexonia:amethysteingot"
+    },
+    "3": {
+      "item": "modexonia:amethysteingot"
+    },
+    "4": {
+      "item": "modexonia:amethysteingot"
+    },
+    "5": {
+      "item": "modexonia:amethysteingot"
+    },
+    "6": {
+      "item": "modexonia:amethysteingot"
+    },
+    "7": {
+      "item": "modexonia:amethysteingot"
+    },
+    "8": {
+      "item": "modexonia:amethysteingot"
+    }
+  },
+  "result": {
+    "item": "modexonia:amethystearmor_armor_chestplate",
+    "count": 1
+  }
+}

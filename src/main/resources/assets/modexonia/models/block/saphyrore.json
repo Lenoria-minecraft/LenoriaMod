@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "modexonia:blocks/aphyrore",
+    "up": "modexonia:blocks/aphyrore",
+    "north": "modexonia:blocks/aphyrore",
+    "east": "modexonia:blocks/aphyrore",
+    "south": "modexonia:blocks/aphyrore",
+    "west": "modexonia:blocks/aphyrore",
+    "particle": "modexonia:blocks/aphyrore"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "methystehoe",
+    "customModelName": "Normal",
+    "name": "Amethystehoe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Amethystestuff"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 1,
+    "efficiency": 4.5,
+    "attackSpeed": 1.0,
+    "enchantability": 2,
+    "damageVsEntity": 4.5,
+    "usageCount": 2500,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "modexonia:opale_ore_block"
+    }
+  ],
+  "result": {
+    "item": "modexonia:opale_gem",
+    "count": 9
+  }
+}

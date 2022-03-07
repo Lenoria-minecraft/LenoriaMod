@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "modexonia:exoniumingot"
+    },
+    {
+      "item": "modexonia:exoniumingot"
+    },
+    {
+      "item": "minecraft:stick"
+    },
+    {
+      "item": "modexonia:exoniumingot"
+    },
+    {
+      "item": "minecraft:stick"
+    }
+  ],
+  "result": {
+    "item": "modexonia:exoniumaxe",
+    "count": 1
+  }
+}

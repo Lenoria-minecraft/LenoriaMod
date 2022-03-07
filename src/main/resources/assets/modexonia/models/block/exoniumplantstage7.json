@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "modexonia:blocks/xoniumseedstage7",
+    "particle": "modexonia:blocks/xoniumseedstage7"
+  }
+}

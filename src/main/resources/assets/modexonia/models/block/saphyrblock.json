@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "modexonia:blocks/aphyrlock",
+    "particle": "modexonia:blocks/aphyrlock"
+  }
+}

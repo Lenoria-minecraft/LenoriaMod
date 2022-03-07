@@ -1,0 +1,42 @@
+{
+  "group": "modexonia",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "modexonia:opalegem"
+    },
+    "1": {
+      "item": "modexonia:opalegem"
+    },
+    "2": {
+      "item": "modexonia:opalegem"
+    },
+    "3": {
+      "item": "modexonia:opalegem"
+    },
+    "4": {
+      "item": "modexonia:opalegem"
+    },
+    "5": {
+      "item": "modexonia:opalegem"
+    },
+    "6": {
+      "item": "modexonia:opalegem"
+    },
+    "7": {
+      "item": "modexonia:opalegem"
+    },
+    "8": {
+      "item": "modexonia:opalegem"
+    }
+  },
+  "result": {
+    "item": "modexonia:opaleoreblock",
+    "count": 1
+  }
+}

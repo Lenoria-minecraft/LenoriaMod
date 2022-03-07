@@ -1,0 +1,30 @@
+{
+  "group": "modexonia",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "modexonia:opalegem"
+    },
+    "1": {
+      "item": "modexonia:opalegem"
+    },
+    "2": {
+      "item": "modexonia:opalegem"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "modexonia:opaleaxe",
+    "count": 1
+  }
+}

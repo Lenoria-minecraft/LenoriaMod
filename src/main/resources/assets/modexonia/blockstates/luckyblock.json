@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "modexonia:block/luckyblock"
+    },
+    "facing=east": {
+      "model": "modexonia:block/luckyblock",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "modexonia:block/luckyblock",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "modexonia:block/luckyblock",
+      "y": 270
+    }
+  }
+}

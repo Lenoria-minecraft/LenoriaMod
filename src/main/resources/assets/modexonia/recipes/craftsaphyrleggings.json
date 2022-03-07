@@ -1,0 +1,31 @@
+{
+  "group": "modexonia",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "modexonia:saphyringot"
+    },
+    {
+      "item": "modexonia:saphyringot"
+    },
+    {
+      "item": "modexonia:saphyringot"
+    },
+    {
+      "item": "modexonia:saphyringot"
+    },
+    {
+      "item": "modexonia:saphyringot"
+    },
+    {
+      "item": "modexonia:saphyringot"
+    },
+    {
+      "item": "modexonia:saphyringot"
+    }
+  ],
+  "result": {
+    "item": "modexonia:saphyrarmorlegs",
+    "count": 1
+  }
+}

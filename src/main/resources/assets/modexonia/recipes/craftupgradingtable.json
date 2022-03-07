@@ -1,0 +1,37 @@
+{
+  "group": "modexonia",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "modexonia:saphyringot"
+    },
+    {
+      "item": "modexonia:exoniumingot"
+    },
+    {
+      "item": "modexonia:saphyringot"
+    },
+    {
+      "item": "modexonia:exoniumingot"
+    },
+    {
+      "item": "minecraft:crafting_table"
+    },
+    {
+      "item": "modexonia:exoniumingot"
+    },
+    {
+      "item": "modexonia:saphyringot"
+    },
+    {
+      "item": "modexonia:exoniumingot"
+    },
+    {
+      "item": "modexonia:saphyringot"
+    }
+  ],
+  "result": {
+    "item": "modexonia:upgradingtable",
+    "count": 1
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "_fv": 24,
+  "_type": "enchantment",
+  "definition": {
+    "name": "Smelt",
+    "type": "BREAKABLE",
+    "rarity": "RARE",
+    "minLevel": 1,
+    "maxLevel": 1,
+    "damageModifier": 0,
+    "compatibleEnchantments": [],
+    "compatibleItems": [
+      {
+        "value": "CUSTOM:Exoniumtools"
+      },
+      {
+        "value": "CUSTOM:Exoniumhammer"
+      },
+      {
+        "value": "CUSTOM:Exoniumhammerevoluted"
+      },
+      {
+        "value": "CUSTOM:Saphyrpickaxe"
+      },
+      {
+        "value": "CUSTOM:Amethystepickaxe"
+      },
+      {
+        "value": "CUSTOM:OpalePickaxe"
+      }
+    ],
+    "isTreasureEnchantment": false,
+    "isCurse": false,
+    "isAllowedOnBooks": true,
+    "canGenerateInLootTables": true,
+    "canVillagerTrade": true
+  }
+}

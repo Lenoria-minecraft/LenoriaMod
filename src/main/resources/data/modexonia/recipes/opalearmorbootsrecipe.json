@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "modexonia:opale_gem"
+    },
+    "2": {
+      "item": "modexonia:opale_gem"
+    },
+    "3": {
+      "item": "modexonia:opale_gem"
+    },
+    "5": {
+      "item": "modexonia:opale_gem"
+    }
+  },
+  "result": {
+    "item": "modexonia:opale_armor_boots",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "modexonia:blocks/lucki",
+    "up": "modexonia:blocks/lucki",
+    "north": "modexonia:blocks/lucki",
+    "east": "modexonia:blocks/lucki",
+    "south": "modexonia:blocks/lucki",
+    "west": "modexonia:blocks/lucki",
+    "particle": "modexonia:blocks/lucki"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "group": "modexonia",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "modexonia:amethysteingot"
+    },
+    {
+      "item": "modexonia:amethysteingot"
+    },
+    {
+      "item": "modexonia:amethysteingot"
+    },
+    {
+      "item": "minecraft:stick"
+    },
+    {
+      "item": "minecraft:stick"
+    }
+  ],
+  "result": {
+    "item": "modexonia:amethystepickaxe",
+    "count": 1
+  }
+}
